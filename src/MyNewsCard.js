@@ -11,8 +11,7 @@ const MyNewsCard = ({articles}) => {
         <Card className="bg-dark text-white">
 			  <Card.Img src="https://picsum.photos/200/300?grayscale" alt="Card image" />
 			  <Card.ImgOverlay>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			    <Card.Title class="card-title h1">
+			<Card.Title class="card-title h1">
 			    {articles}
 			    </Card.Title>
 			   
