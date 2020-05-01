@@ -8,7 +8,7 @@ const MyNewsCard = ({articles}) => {
     return (
         <div>
         
-        <Card className="bg-dark text-white">
+        <Card className="bg-dark text-black">
 			  <Card.Img src="https://picsum.photos/200/300?grayscale" alt="Card image" />
 			  <Card.ImgOverlay>
 			<Card.Title class="card-title h1">
